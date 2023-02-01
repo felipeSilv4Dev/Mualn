@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+body {
+  max-width: 81.25rem;
+  margin: 0 auto;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  background: url("/img/bg.jpg") no-repeat;
+  background-size: cover;
+}
